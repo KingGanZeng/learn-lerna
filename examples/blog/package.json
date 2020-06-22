@@ -1,11 +1,11 @@
 {
   "name": "@zenggan/blog",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "main": "src/index.js",
   "license": "MIT",
   "dependencies": {
-    "@zenggan/ui": "^1.6.0",
-    "@zenggan/utils": "^3.0.0",
+    "@zenggan/ui": "^1.6.1",
+    "@zenggan/utils": "^3.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },

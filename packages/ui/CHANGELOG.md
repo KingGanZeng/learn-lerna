@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.1](https://github.com/KingGanZeng/learn-lerna/compare/@zenggan/ui@1.6.0...@zenggan/ui@1.6.1) (2020-06-22)
+
+
+### Bug Fixes
+
+* Gengxin ([b843490](https://github.com/KingGanZeng/learn-lerna/commit/b843490e01defee90b7e4847a7288d7c0c21c48c))
+
+
+
+
+
 # 1.6.0 (2020-06-22)
 
 

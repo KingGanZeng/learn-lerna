@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.1](https://github.com/KingGanZeng/learn-lerna/compare/@zenggan/utils@3.0.0...@zenggan/utils@3.0.1) (2020-06-22)
+
+
+### Bug Fixes
+
+* Gengxin ([b843490](https://github.com/KingGanZeng/learn-lerna/commit/b843490e01defee90b7e4847a7288d7c0c21c48c))
+
+
+
+
+
 # 3.0.0 (2020-06-22)
 
 
