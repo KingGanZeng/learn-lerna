@@ -1,6 +1,6 @@
 {
   "name": "@zg/utils",
-  "version": "2.3.1",
+  "version": "2.4.0",
   "main": "src/index.js",
   "license": "MIT",
   "gitHead": "3cdd0ea7bf594e269756cab9257e2dbb424bc23e",

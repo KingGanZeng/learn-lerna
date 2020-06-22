@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/KingGanZeng/learn-lerna/compare/@zg/blog@1.5.1...@zg/blog@1.6.0) (2020-06-22)
+
+
+### Features
+
+* 更新lerna ([1419a10](https://github.com/KingGanZeng/learn-lerna/commit/1419a106e9a5f53eca3049e39585578c37cd4210))
+
+
+
+
+
 ## [1.5.1](https://github.com/KingGanZeng/learn-lerna/compare/@zg/blog@1.5.0...@zg/blog@1.5.1) (2020-06-22)
 
 **Note:** Version bump only for package @zg/blog
