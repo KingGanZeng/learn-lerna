@@ -1,12 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
 node_modules
-dist
+src/assets/images/.DS_Store
+/dist
 .cache
-
-# OS
 .DS_Store
-
-#IDE
 .idea
-.vscode
-
+.package-lock.json
 yarn-error.log
+npm-debug.log
+lerna-debug.log
+examples/**/dist
+packages/**/node_modules
+packages/**/dist
+.size-snapshot.json
