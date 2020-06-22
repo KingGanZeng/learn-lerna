@@ -15,6 +15,7 @@ function curryIt(fn) {
     return result;
 }
 
+
 function add(a, b) {
     console.log(a, b)
     return a + b
