@@ -1,5 +1,5 @@
 {
-  "name": "@zg/ui",
+  "name": "@zenggan/ui",
   "version": "1.5.2",
   "main": "src/index.js",
   "license": "MIT",
@@ -9,5 +9,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "19104f23afb8d3f8625b29ff1f99ab49d2c2a92b"
 }
