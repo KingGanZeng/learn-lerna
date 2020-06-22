@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/KingGanZeng/learn-lerna/compare/@zg/utils@2.0.1...@zg/utils@2.1.0) (2020-06-22)
+
+
+### Features
+
+* 更新package ([1c15863](https://github.com/KingGanZeng/learn-lerna/commit/1c15863bd8f0ecc447506a4f8ba63d93e1517139))
+
+
+
+
+
 ## [2.0.1](https://github.com/KingGanZeng/learn-lerna/compare/@zg/utils@2.0.0...@zg/utils@2.0.1) (2020-06-22)
 
 **Note:** Version bump only for package @zg/utils
