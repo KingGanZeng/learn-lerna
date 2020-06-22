@@ -9,7 +9,6 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
-  "gitHead": "be465ba2738f59543e01d69730ac08696d0364c2",
   "publishConfig": {
     "access": "public"
   }
