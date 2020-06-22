@@ -1,6 +1,6 @@
 {
   "name": "@zenggan/ui",
-  "version": "1.5.2",
+  "version": "1.6.0",
   "main": "src/index.js",
   "license": "MIT",
   "peerDependencies": {
