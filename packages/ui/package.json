@@ -1,13 +1,13 @@
 {
   "name": "@zg/ui",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "main": "index.js",
   "license": "MIT",
   "peerDependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
-  "gitHead": "6d754f3fa839d72e867b5696430aa9fc098387ea",
+  "gitHead": "6d6214d585554eed4416986dc471f113ad69de13",
   "publishConfig": {
     "access": "public"
   }

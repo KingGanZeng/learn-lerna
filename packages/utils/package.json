@@ -1,9 +1,9 @@
 {
   "name": "@zg/utils",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "6d754f3fa839d72e867b5696430aa9fc098387ea",
+  "gitHead": "6d6214d585554eed4416986dc471f113ad69de13",
   "publishConfig": {
     "access": "public"
   }
